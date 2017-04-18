@@ -5,7 +5,7 @@
 * Description: Subscribe to Mailgun mailing lists and receive post notifications
 * Author: WRDSB
 * Author URI: https://github.com/wrdsb
-* Version: 2.1
+* Version: 2.2
 * Text Domain: wrdsb-mailgun-subscriptions
 * Domain Path: /languages
 * License: GPLv3 or later
