@@ -149,6 +149,12 @@ class Plugin {
 				} else {
 					return "teachers-".$my_slug."@hedwig.wrdsb.ca";
 				}
+			case "blogs.wrdsb.ca":
+				if (empty($my_slug)) {
+					return "blogs@hedwig.wrdsb.ca";
+				} else {
+					return "blogs-".$my_slug."@hedwig.wrdsb.ca";
+				}
 			case "llc.wrdsb.ca":
 				return "llc@hedwig.wrdsb.ca";
 			case "wcssaa.ca":

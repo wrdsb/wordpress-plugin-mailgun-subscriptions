@@ -1,3 +1,6 @@
+#### 2.3
+* Add support for blogs.wrdsb.ca
+
 #### 1.1.2
 * Tidy up display of single email list in widget (exclude the list name; replace with list description, because it's user-configurable)
 
