@@ -144,6 +144,8 @@ class Plugin {
 				} else {
 					return "teachers-".$my_slug."@hedwig.wrdsb.ca";
 				}
+			case "llc.wrdsb.ca":
+				return "llc@hedwig.wrdsb.ca";
 			case "wcssaa.ca":
 				return "wcssaa@hedwig.wrdsb.ca";
 			case "labs.wrdsb.ca":
