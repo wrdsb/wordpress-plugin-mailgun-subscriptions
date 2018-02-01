@@ -105,7 +105,7 @@ class Subscription_Form {
 		echo '<input type="hidden" name="mailgun-action" value="subscribe" />';
 		printf( '<input type="hidden" value="%s" name="mailgun-list" />', esc_attr(Plugin::instance()->get_list_address()) );
 		echo '<p class="email-address">';
-		printf( '<label for="mailgun-email-address-%d">%s</label> ', $instance_counter, 'Email Address' );
+		printf( '<label for="mailgun-email-address-%d">%s</label> ', $instance_counter, 'Your email address' );
 		$default_email = '';
 		if ( is_user_logged_in() ) {
 			$user = wp_get_current_user();
