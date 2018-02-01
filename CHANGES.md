@@ -1,3 +1,6 @@
+#### 2.3.1
+* change label for email address from "Email Address" to "Your email address" request 16834
+
 #### 2.3
 * Add support for blogs.wrdsb.ca
 
