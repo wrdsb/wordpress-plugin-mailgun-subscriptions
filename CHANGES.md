@@ -1,3 +1,6 @@
+#### 2.3.2
+* change heading capitalization
+
 #### 2.3.1
 * change label for email address from "Email Address" to "Your email address" request 16834
 

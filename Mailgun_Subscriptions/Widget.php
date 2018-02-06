@@ -14,7 +14,7 @@ class Widget extends \WP_Widget {
 
 	public function widget( $args, $instance ) {
 		$instance = $this->parse_instance_vars($instance);
-		$title = "<h2>Get News from this Website</h2>";
+		$title = "<h2>Get news from this website</h2>";
 
 		echo $args['before_widget'];
 		if ( !empty($title) ) {
